@@ -1,0 +1,17 @@
+/*Style Sheet for Odin Project Practice 2*/
+.odd{
+    background-color: rgb(246, 153, 168);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.change-font-size{
+    font-size: 24px;
+}
+
+#two{
+    color: #0000ff;
+    font-size: 36px;
+}
+#four{
+    background-color: rgb(131, 229, 74);
+    font-weight: bold;
+}

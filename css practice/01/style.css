@@ -1,0 +1,8 @@
+/*Style Sheet for Odin Project Practice 1*/
+div{
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
